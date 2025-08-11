@@ -1,0 +1,9 @@
+{
+  "name": "ingest-api",
+  "type": "module",
+  "dependencies": {
+    "appwrite": "^14.2.0",
+    "zod": "^3.23.8",
+    "p-limit": "^5.0.0"
+  }
+}
